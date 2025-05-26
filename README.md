@@ -1,4 +1,4 @@
-# Sample AI assistant
+# Vision & Voice AI assistant
 
 We need an `OPENAI_API_KEY` and a `GOOGLE_API_KEY` to run this code. And then we have to store them in a `.env` file in the root directory of the project.
 
