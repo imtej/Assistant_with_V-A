@@ -1,5 +1,12 @@
 # Vision & Voice AI assistant
 
+An advanced AI assistant that processes both audio and video inputs to provide interactive responses, utilizing LLMs
+like LLama3.1 using groq api, gemini-1.5-flash. 
+
+We Optimized LangChain-based inference pipeline with message history management, enabling accurate voice command recognition
+and dynamic interactions, even in noisy environments.
+
+
 We need an `OPENAI_API_KEY` and a `GOOGLE_API_KEY` to run this code. And then we have to store them in a `.env` file in the root directory of the project.
 
 
