@@ -1,4 +1,4 @@
-# Vision & Voice AI assistant 
+# Vision & Voice AI assistant  
 
 An advanced AI assistant that processes both audio and video inputs to provide interactive responses, utilizing LLMs
 like LLama3.1 using groq api, gemini-1.5-flash. 
